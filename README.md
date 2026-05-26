@@ -9,7 +9,7 @@
 <h2 align="center">
   <span style="font-size: 3em; font-weight: bold;">AEthera ✨</span>
 </h2>
-<h3 align="center">HI 👋 There I'm Your AEthera 🎭</h3>
+<h3 align="center">HI 👋 There I'm AEthera 🎭</h3>
 <h4 align="center" style="color: #ffd700; font-weight: bold; letter-spacing: 2px;">"Knowledge is power"</h4>
 
 <!-- CONNECT WITH ME -->
