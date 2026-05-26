@@ -16,7 +16,7 @@
 <p align="left" style="display: flex; align-items: center;">
   <strong>Lets Connect on:</strong>
   <a href="https://instagram.com/AEthera.dael"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=blue" align="center" alt="Instagram"/></a>
-  <a href="https://tiktok.com/@thera5115"><img src="https://img.shields.io/badge/TikTok-000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" align="center" alt="TikTok"/></a>
+  <a href="https://tiktok.com/@thera5115"><img src="https://img.shields.io/badge/TikTok-000000.svg?style=for-the-badge&logo=TikTok&logoColor=blue" align="center" alt="TikTok"/></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
