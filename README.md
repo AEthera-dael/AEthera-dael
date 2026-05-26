@@ -1,16 +1,6 @@
 <!-- AEthera IMAGE HERO -->
 <img src="https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=1350&q=80" width="100%" />
 
-<!-- CENTERED PROFILE AVATAR -->
-<p align="center">
-  <img src="https://avatars.dicebear.com/api/avataaars/AEthera.svg?background=%23ffedf6" width="160" style="border-radius:50%; border:6px solid #ffd6ea;" alt="AEthera avatar" />
-</p>
-
-<!-- SMALL BIO -->
-<p align="center" style="max-width:680px;margin:0 auto; color:#7a2743; font-size:1.05em;">
-  Creative daydreamer • visual storyteller • lover of soft palettes and bold ideas. Building tiny beautiful things and sharing sparkly moments ✨
-</p>
-
 <!-- PROFILE VIEW -->
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=AEthera&label=Profile_views&color=ff66cc&style=flat" alt="profile-views-count"/>
@@ -23,7 +13,7 @@
 <h3 align="center">Hi — I'm AEthera, welcome to my corner of the internet 💖</h3>
 <h4 align="center" style="color: #ff66b2; font-weight: bold; letter-spacing: 2px;">"Rosy dreams, bold moves, endless curiosity."</h4>
 
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif">
+
 
 <!-- CONNECT WITH ME -->
 <p align="left" style="display: flex; align-items: center;">
@@ -51,10 +41,27 @@
 ## ✨ About Me
 A creative, curious, and kind soul who loves art, aesthetics and making small joyful things. I create, share pretty moments, and chase bright ideas — with a little glitter and a lot of heart.
 
-## 🏆 Favorite Quote
+## 📊 Statistics
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AEthera-dael&theme=blueberry" width="46%" />
+<img align="right" src="https://streak-stats.vercel.app/?user=AEthera-dael&theme=blueberry&hide_border=true&card_height=250&background=0d1117" width="46%" alt="GitHub Streak" />
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AEthera-dael&theme=blueberry" width="47%" />
+<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AEthera-dael&theme=blueberry" width="47%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AEthera-dael&theme=github_dark" style="height: 300px"/>
+
+## 🏆 GitHub Trophies
+<p align="left" style="vertical-align:top; margin:4px;">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" style="margin: 10px;">
+    <img src="https://github-profile-trophy.vercel.app/?username=AEthera-dael&margin-w=15&margin-h=15&theme=onestar&column=9&title_color=ffd700&text_color=ffd700&bg_color=000000" alt="AEthera-dael" />
+  </a>
+</p>
+
+## ✍️ Favorite Quotes ♻️
 <div align="center">
-  <h3 style="color: #ff66b2; font-weight: bold;">"Bloom gently. Shine boldly."</h3>
+  <h3 style="color: #ffd700; font-weight: bold;">"THE SOURCE OF WISDOM IS PAIN"</h3>
 </div>
 
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="550px" alt="Random Dev Quote" />
+</div>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
