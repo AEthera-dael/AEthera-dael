@@ -1,3 +1,5 @@
+<!-- AEthera IMAGE HERO -->
+
 <!-- PROFILE VIEW AND FOLLOWERS -->
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=AEthera-dael&label=Profile_views&color=0ED7FF&style=flat" alt="profile-views-count"/>
@@ -7,8 +9,8 @@
 <h2 align="center">
   <span style="font-size: 3em; font-weight: bold;">AEthera ✨</span>
 </h2>
-<h3 align="center">HI 👋 There I'm AEthera</h3>
-<h4 align="center" style="color: #ffd700; font-weight: bold; letter-spacing: 2px;">"Soft strength, bold dreams, timeless sparkle."</h4>
+<h3 align="center">HI 👋 There I'm Your AEthera 🎭</h3>
+<h4 align="center" style="color: #ffd700; font-weight: bold; letter-spacing: 2px;">"THE SOURCE OF WISDOM IS PAIN"</h4>
 
 <!-- CONNECT WITH ME -->
 <p align="left" style="display: flex; align-items: center;">
@@ -17,12 +19,18 @@
   <a href="https://tiktok.com/@thera5115"><img src="https://img.shields.io/badge/TikTok-000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" align="center" alt="TikTok"/></a>
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 📊 Statistics
 <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AEthera-dael&theme=blueberry" width="46%" />
 <img align="right" src="https://streak-stats.vercel.app/?user=AEthera-dael&theme=blueberry&hide_border=true&card_height=250&background=0d1117" width="46%" alt="GitHub Streak" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AEthera-dael&theme=blueberry" width="47%" />
 <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AEthera-dael&theme=blueberry" width="47%" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AEthera-dael&theme=github_dark" style="height: 300px"/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🏆 GitHub Trophies
 <p align="left" style="vertical-align:top; margin:4px;">
@@ -31,7 +39,9 @@
   </a>
 </p>
 
-## ✍️ Favorite Quotes ♻️
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## ✍️ C2 Favorite Quotes ♻️
 <div align="center">
   <h3 style="color: #ffd700; font-weight: bold;">"THE SOURCE OF WISDOM IS PAIN"</h3>
 </div>
