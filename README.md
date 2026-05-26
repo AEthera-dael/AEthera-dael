@@ -10,7 +10,7 @@
   <span style="font-size: 3em; font-weight: bold;">AEthera ✨</span>
 </h2>
 <h3 align="center">HI 👋 There I'm Your AEthera 🎭</h3>
-<h4 align="center" style="color: #ffd700; font-weight: bold; letter-spacing: 2px;">"THE SOURCE OF WISDOM IS PAIN"</h4>
+<h4 align="center" style="color: #ffd700; font-weight: bold; letter-spacing: 2px;">"Knowledge is power"</h4>
 
 <!-- CONNECT WITH ME -->
 <p align="left" style="display: flex; align-items: center;">
@@ -41,9 +41,9 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## ✍️ C2 Favorite Quotes ♻️
+## ✍️ AEthera Favorite Quotes ♻️
 <div align="center">
-  <h3 style="color: #ffd700; font-weight: bold;">"THE SOURCE OF WISDOM IS PAIN"</h3>
+  <h3 style="color: #ffd700; font-weight: bold;">"Knowledge is power"</h3>
 </div>
 
 <div align="center">
